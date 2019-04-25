@@ -7,6 +7,12 @@ question, visitors can choose between a fixed number of answers.
 
 Detailed documentation is in the "docs" directory.
 
+Install
+-----------
+
+dist/ has the tar file, you can install this package on ubuntu by 
+pip install --user django-polls/dist/django-polls-0.1tar.gz
+
 Quick start
 -----------
 
